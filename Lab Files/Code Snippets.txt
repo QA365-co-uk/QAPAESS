@@ -1,0 +1,7 @@
+Exercise 6 - Task 1 - Step 5
+
+If(Value(Text(Now(),"hh")) <12,"Good Morning ","Good Afternoon ") & User().FullName
+
+Exercise 10
+nfBudget = txtTotalAttendees.Text * txtPricePerAttendee.Text;
+nfCurrentCosts = Sum(Attendees,Cost);

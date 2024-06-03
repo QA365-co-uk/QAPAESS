@@ -1,0 +1,47 @@
+Ex 17 - Step 3
+Create an app to track new starters in the business.  The app should record: Full Name, Email Address, Department, Job Role and Location.  There should also be yes/no fields for Induction Complete, Initial Training Complete and Probation Complete
+
+Ex 17 - Step 6
+Change the Department to be a choice.
+
+Ex 18 - Step 3
+Where the new starters are listed, show the full name instead of the email address.
+
+Ex 18 - Step 4
+Change the Gallery so it displays: Full Name, Job Role and Department.
+
+Ex 18 - Step 5
+Change RecordsGallery1 so it displays: Full Name, Job Role and Department.
+
+Ex 18 - Step 8
+The gallery currently displays the email address of the new starters.  Change this so it displays their Full Name instead.
+
+Ex 18 - Step 12
+Change the text property of Title1 to display the Full Name.
+
+Ex 18 - Step 13
+Change the text property of Title1 to ThisItem.'Full Name'
+
+Ex 18 - Step 17
+In the form, change the order of the fields so that the choice fields (Initial Training Complete, Induction Complete and Probation Complete) are at the bottom of the form.
+
+Ex 18 - Step 18
+Move Induction Complete to the end (bottom) of the form
+
+Ex 18 - Step 20
+Reduce the Height of the form by 100
+Reduce the height of Form1 by 100
+
+Ex 18 - Step 22
+Add a label to MainContainer1.   This label should have a height of 100 and the same width as the container.  The label name should be lblFunFact
+
+Ex 18 - Step 23
+Set the width of lblFunFact to be the same as the container it is in.
+
+Ex 18 - Step 24
+Stretch lblFunFact so it aligns to the full width of the container it is in.
+
+Ex 18 - Step 25
+Center the text in lblFunFact.
+Set the align property of lblFunFact so the text is in the centre of this label.
+

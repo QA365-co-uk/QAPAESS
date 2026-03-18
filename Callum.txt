@@ -1,0 +1,15 @@
+AFA STUDENT01 -		PC01-QAPWAUTESS-19032026
+
+	    Lab URL:	https://www.gotomypc.com/sc/096C502A136F97575054A19D016F990B
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password1698
+
+=======================================================================================
+Training Account Credentials
+============================
+Username: Agent01@QADelegate01005793.onmicrosoft.com
+Password: Apples-1903
+=======================================================================================
